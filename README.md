@@ -1,3 +1,3 @@
 # Sitio para Practicar Diseño
 
-- Uso solo de HTML y CSS.
+-   Uso solo de HTML y CSS.
